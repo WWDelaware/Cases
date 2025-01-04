@@ -1,0 +1,2 @@
+Primer 1	ATGGTGAGCAAGGGCGAGGA	20-mer		60% GC	6296,2 Da	Binds at: 1 -> 20
+Primer 2	TTACTTGTACAGCTCGTCCA	20-mer		45% GC	6043,0 Da	Binds at: 701 <- 720
